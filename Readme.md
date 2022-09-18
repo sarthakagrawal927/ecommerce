@@ -1,10 +1,10 @@
 # Ecommerce
 
 ## Frontend
-SolidJS
+SolidJS, Tailwind
 
 ## Backend
 Go-Echo, MongoDB
 
 ## Future Additions
-ProtoBuffer, Postgres, Tailwind, Docker
+ProtoBuffer, Postgres, Docker
