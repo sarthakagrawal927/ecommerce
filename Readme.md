@@ -4,7 +4,13 @@
 SolidJS, Tailwind
 
 ## Backend
-Go-Echo, MongoDB
+Go-Echo, MongoDB, Postgres
 
-## Future Additions
-ProtoBuffer, Postgres, Docker
+## Major Backend TODOs:
+- [ ] Add ProtoBuffer
+- [ ] Dockerize
+- [ ] Authentication
+- [ ] Caching
+- [ ] Modularize Go Backend
+- [ ] Make Backend use Concurrency
+- [ ] ENV Variables
