@@ -1,13 +1,12 @@
 # Ecommerce
 
 ## Frontend
-SolidJS, Tailwind
+SolidJS, Tailwind, Typescript
 
 ## Backend
 Go-Echo, MongoDB, Postgres, ProtoBuffs
 
 ## Major Backend TODOs:
-- [ ] Add ProtoBuffer
 - [ ] Dockerize
 - [ ] Authentication
 - [ ] Caching
@@ -25,8 +24,10 @@ protoc -I=$PWD/protobuffers --go_out=$PWD/server --ts_out=$PWD/client/src $PWD/p
 
 ```bash
 # Run the server
+go mod download
 nodemon --exec go run *.go --signal SIGTERM
 
 # Run the client
+bun install
 bun run dev
 ```
