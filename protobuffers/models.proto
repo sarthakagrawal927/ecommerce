@@ -1,0 +1,14 @@
+syntax = "proto3";
+package main;
+
+option go_package = "./;main";
+
+message UserProto {
+  string name = 1;
+  string email = 2;
+  int32 age = 3;
+}
+
+message UserListProto{
+  repeated UserProto users = 1;
+}
