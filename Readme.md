@@ -13,6 +13,7 @@ Go-Echo, MongoDB, Postgres, ProtoBuffs
 - [ ] Modularize Go Backend
 - [ ] Make Backend use Concurrency
 - [ ] ENV Variables
+- [ ] meilisearch
 
 ## Updating proto buffers
 
