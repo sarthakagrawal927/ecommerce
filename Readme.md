@@ -4,7 +4,7 @@
 SolidJS, Tailwind, Typescript
 
 ## Backend
-Go-Echo, MongoDB, Postgres, ProtoBuffs
+Go-Echo, MongoDB, Postgres, ProtoBuffs, Go-Orm
 
 ## Major Backend TODOs:
 - [ ] Dockerize
