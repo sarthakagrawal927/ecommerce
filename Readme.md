@@ -1,10 +1,14 @@
 # Ecommerce
 
 ## Frontend
-SolidJS, Tailwind, Typescript
+SolidJS, Tailwind
 
 ## Backend
-Go-Echo, MongoDB, Postgres, ProtoBuffs, Go-Orm
+- Go-Echo - Framework,
+- MongoDB - get details of product/user
+- Postgres - Primary Datastore
+- Go-Orm
+- ProtoBuffs - For server to client communication. (Not sure whether to use it or not)
 
 ## Major Backend TODOs:
 - [ ] Dockerize
